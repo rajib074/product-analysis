@@ -1,0 +1,13 @@
+.header-aria{
+    text-align: end;
+    background-color: aquamarine;
+    padding: 30px;
+}
+.menu-link{
+    margin-right: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+.menu-link:hover{
+    color: black;
+}

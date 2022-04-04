@@ -1,0 +1,18 @@
+.hmoe-add-aria{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 50px;
+}
+.text-aria{
+    background-color: aquamarine;
+    margin-right: 50px;
+    padding: 20px;
+}
+.image-aria{
+    background-color: chartreuse;
+}
+.image-aria img{
+    width: 500px;
+    border: 2px solid aquamarine;
+    padding-left: 20px;
+}
