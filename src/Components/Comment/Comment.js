@@ -13,7 +13,13 @@ const Comment = () => {
     return (
         <div>
             <h2>This     comment   ber</h2>    
-            
+            {
+                comments.map(comment => <CommentList
+                    key={comment.id}
+                    comment={comment}
+                ></CommentList>) 
+            }        
+           
 
             
         </div>
