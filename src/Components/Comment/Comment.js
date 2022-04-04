@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import CommentList from './CommentList/CommentList';
 
 const Comment = () => {
     const [comments, setComments] = useState([])
@@ -11,12 +12,9 @@ const Comment = () => {
     },[])
     return (
         <div>
-            <h2>This     comment   ber</h2>            
-            <h1>id: {comments.id}</h1>
-            <h1>Name:{comments.name}</h1>
-           {
-              <p>name: {comments.length}</p>
-           }
+            <h2>This     comment   ber</h2>    
+            
+
             
         </div>
     );

@@ -4,15 +4,15 @@
     padding: 50px;
 }
 .text-aria{
-    background-color: aquamarine;
+    background-color: rgb(231, 243, 239);
     margin-right: 50px;
     padding: 20px;
 }
 .image-aria{
-    background-color: chartreuse;
+    background-color: rgb(255, 255, 255);
 }
 .image-aria img{
     width: 500px;
-    border: 2px solid aquamarine;
+    border: 2px solid rgb(236, 199, 184);
     padding-left: 20px;
 }

@@ -1,0 +1,10 @@
+.recharts{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+.Chart{
+    margin: 50px;
+}

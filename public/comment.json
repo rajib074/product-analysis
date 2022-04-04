@@ -3,72 +3,72 @@
       "id": "1",
       "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Miranda Newman",
-      "comment": "Sint ullamco laboris veniam eiusmod enim consequat in veniam fugiat dolor cupidatat quis "
+      "content": "Sint ullamco laboris veniam eiusmod enim consequat in veniam fugiat dolor cupidatat quis "
     },
     {
       "id": "2",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Bertie Hunt",
-      "comment": "Velit duis aute proident cupidatat esse nisi."
+      "content": "Velit duis aute proident cupidatat esse nisi."
     },
     {
       "id": "3",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Crosby Stark",
-      "comment": "Est exercitation ullamco veniam dolore nisi cillum sit aute sit voluptate id. "
+      "content": "Est exercitation ullamco veniam dolore nisi cillum sit aute sit voluptate id. "
     },
     {
       "id": "4",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Ellison Schmidt",
-      "comment": "Minim est laborum sit laborum et aliqua minim qui"
+      "content": "Minim est laborum sit laborum et aliqua minim qui"
     },
     {
       "id": "5",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Boyer Morales",
-      "comment": "Excepteur Lorem nulla labore in duis veniam et ex anim nisi n"
+      "content": "Excepteur Lorem nulla labore in duis veniam et ex anim nisi n"
     },
     {
       "id": "6",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Wooten Larsen",
-      "comment": "Anim dolore eu officia velit. "
+      "content": "Anim dolore eu officia velit. "
     },
     {
       "id": "7",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Trisha Ashley",
-      "comment": "Ex anim mollit laborum eiusmod officia excepteur officia veniam duis nulla officia. "
+      "content": "Ex anim mollit laborum eiusmod officia excepteur officia veniam duis nulla officia. "
     },
     {
       "id": "8",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Lizzie Valentine",
-      "comment": "Nulla minim laborum pariatur cillum elit officia."
+      "content": "Nulla minim laborum pariatur cillum elit officia."
     },
     {
       "id": "9",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Lily Guerrero",
-      "comment": "Occaecat nostrud labore ipsum laboris. \r\n"
+      "content": "Occaecat nostrud labore ipsum laboris. \r\n"
     },
     {
       "id": "10",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Stafford Melendez",
-      "comment": "Labore proident aute nulla amet. "
+      "content": "Labore proident aute nulla amet. "
     },
     {
       "id": "11",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Horn Alexander",
-      "comment": "Ex culpa magna laborum incididunt deserunt enim consequat elit "
+      "content": "Ex culpa magna laborum incididunt deserunt enim consequat elit "
     },
     {
       "id": "12",
-      "picture": "ihttps://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Robyn Rodriquez",
-      "comment": "Ullamco officia amet commodo eu culpa esse sunt laboris sunt."
+      "content": "Ullamco officia amet commodo eu culpa esse sunt laboris sunt."
     }
   ]

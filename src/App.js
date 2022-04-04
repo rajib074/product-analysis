@@ -8,6 +8,7 @@ import Header from './Components/Header/Header';
 import Comment from './Components/Comment/Comment';
 import Blog from './Components/Blog/Blog';
 import NotFount from './Components/NotFount/NotFount';
+import Deshbord from './Components/Deshbord/Deshbord';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Routes>
             <Route path='/' element={<Home></Home>}></Route>
             <Route path='/home' element={<Home></Home>}></Route>
+            <Route path='/deshbord' element={<Deshbord></Deshbord>}></Route>
             <Route path='/comment' element={<Comment></Comment>}></Route>
             <Route path='/blog' element={<Blog></Blog>}></Route>
             <Route path='*' element={<NotFount></NotFount>}></Route>
