@@ -3,72 +3,84 @@
       "id": "1",
       "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Miranda Newman",
-      "content": "Sint ullamco laboris veniam eiusmod enim consequat in veniam fugiat dolor cupidatat quis "
+      "content": "Sint ullamco laboris veniam eiusmod enim consequat in veniam fugiat dolor cupidatat quis ",
+      "ratings":5
     },
     {
       "id": "2",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://www.mantruckandbus.com/fileadmin/_processed_/c/7/csm_frank-sprenger-interviewkachel_4470dab1a7.jpg",
       "name": "Bertie Hunt",
-      "content": "Velit duis aute proident cupidatat esse nisi."
+      "content": "Velit duis aute proident cupidatat esse nisi.",
+      "ratings":5
     },
     {
       "id": "3",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQFJWw_-kSIQNw/profile-displayphoto-shrink_100_100/0/1611844188274?e=1652918400&v=beta&t=gfbFKGvRbTs1cQZvNyLNqmYMyaxrDS1MZpQnzhJ3LwM",
       "name": "Crosby Stark",
-      "content": "Est exercitation ullamco veniam dolore nisi cillum sit aute sit voluptate id. "
+      "content": "Est exercitation ullamco veniam dolore nisi cillum sit aute sit voluptate id. ",
+      "ratings":4
     },
     {
       "id": "4",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://i.insider.com/5dcc135ce94e86714253af21?width=1000&format=jpeg&auto=webp",
       "name": "Ellison Schmidt",
-      "content": "Minim est laborum sit laborum et aliqua minim qui"
+      "content": "Minim est laborum sit laborum et aliqua minim qui",
+      "ratings":3
     },
     {
       "id": "5",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Boyer Morales",
-      "content": "Excepteur Lorem nulla labore in duis veniam et ex anim nisi n"
+      "content": "Excepteur Lorem nulla labore in duis veniam et ex anim nisi n",
+      "ratings":4
     },
     {
       "id": "6",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://image.shutterstock.com/image-photo/portrait-handsome-man-smiling-against-260nw-764366404.jpg",
       "name": "Wooten Larsen",
-      "content": "Anim dolore eu officia velit. "
+      "content": "Anim dolore eu officia velit. ",
+      "ratings":5
     },
     {
       "id": "7",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/1888657.jpg",
       "name": "Trisha Ashley",
-      "content": "Ex anim mollit laborum eiusmod officia excepteur officia veniam duis nulla officia. "
+      "content": "Ex anim mollit laborum eiusmod officia excepteur officia veniam duis nulla officia. ",
+      "ratings":5
     },
     {
       "id": "8",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNCbxtLn5lx7v6hEAsFkWLPJJ7mGvfsjAlmviDI3sxn73OzvxJyNpvXbFyfXhgga0ggs&usqp=CAU",
       "name": "Lizzie Valentine",
-      "content": "Nulla minim laborum pariatur cillum elit officia."
+      "content": "Nulla minim laborum pariatur cillum elit officia.",
+      "ratings":4
     },
     {
       "id": "9",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://www.mantruckandbus.com/fileadmin/_processed_/7/1/csm_Richard_von_Braunschweig_2a0347f46a.jpeg",
       "name": "Lily Guerrero",
-      "content": "Occaecat nostrud labore ipsum laboris. \r\n"
+      "content": "Occaecat nostrud labore ipsum laboris.",
+      "ratings":5
     },
     {
       "id": "10",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkIfHcFgsQE6yWcEmnJRpjEnT4Tuwi8Fv9jruykMUwGpzDpAcN9ws9pH173Rq8hJm828&usqp=CAU",
       "name": "Stafford Melendez",
-      "content": "Labore proident aute nulla amet. "
+      "content": "Labore proident aute nulla amet. ",
+      "ratings":5
     },
     {
       "id": "11",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvM7LSe6bESZmfGXWkg2MFTc9JtnnvNgW8ZwdI9hcbIc3N6qG2_wpM3Tm9L43poYzeqNU&usqp=CAU",
       "name": "Horn Alexander",
-      "content": "Ex culpa magna laborum incididunt deserunt enim consequat elit "
+      "content": "Ex culpa magna laborum incididunt deserunt enim consequat elit ",
+      "ratings":5
     },
     {
       "id": "12",
-      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFT8xiknN5Crg/profile-displayphoto-shrink_100_100/0/1517345389451?e=1652918400&v=beta&t=UTtgWpj_fpdFBJT93o27X8r5rdiXQtMAMZZXEsucXek",
       "name": "Robyn Rodriquez",
-      "content": "Ullamco officia amet commodo eu culpa esse sunt laboris sunt."
+      "content": "Ullamco officia amet commodo eu culpa esse sunt laboris sunt.",
+      "ratings":5
     }
   ]

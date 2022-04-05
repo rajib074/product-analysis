@@ -1,0 +1,33 @@
+.grid {
+    display: grid;
+}
+
+.grid-col-3 {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.gap-50 {
+    gap: 50px;
+}
+
+.comment-area {
+    padding: 120px 0;
+}
+
+.comment-btn.btn {
+	display: inline-block;
+	line-height: 50px;
+	text-align: center;
+	padding: 0 25px;
+	color: #fff;
+	background: #2b4eff;
+	border-radius: 4px;
+	font-weight: 600;
+	text-transform: capitalize;
+    margin-top: 50px;
+}
+
+.comment-btn.btn:hover {
+	color: #fff;
+	box-shadow: 0 10px 24px 0 rgba(4,23,118,.3);
+}

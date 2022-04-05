@@ -1,4 +1,5 @@
 import React from "react";
+import Comment from "../Comment/Comment";
 import "./Home.css";
 
 const Home = () => {
@@ -28,6 +29,7 @@ const Home = () => {
           />
         </div>
       </div>
+      <Comment></Comment>
     </div>
   );
 };

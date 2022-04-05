@@ -1,11 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { Link } from "react-router-dom";
 import useComment from "../../hooks/useComment";
 import "./Comment.css";
 import CommentList from "../CommentList/CommentList";
 
-const Comment = () => {
+const CommentTwo = () => {
   const [Comments, setComments] = useComment();
 
   return (
@@ -17,11 +16,8 @@ const Comment = () => {
               Total Customer Comment {Comments.length}
             </h2>
             <div className='grid grid-col-3 gap-50'>
-              {Comments.map((Comment) => <CommentList key={Comment.id} Comment={Comment}></CommentList>).slice(0, 3)}
+              {Comments.map((Comment) => <CommentList key={Comment.id} Comment={Comment}></CommentList>)}
             </div>
-            <Link className='btn comment-btn' to='/Commenttwo'>
-              View All Comment
-            </Link>
           </Col>
         </Row>
       </Container>
@@ -29,4 +25,4 @@ const Comment = () => {
   );
 };
 
-export default Comment;
+export default CommentTwo;
