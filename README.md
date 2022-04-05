@@ -5,7 +5,7 @@
 # List Of Component
 
 - **Header Component**
-- **Banner Component**
+- **Home Component**
 - **Comment Component**
-- **Chart Component**
+- **Deshbord Chart Component**
 - **Question Component**
