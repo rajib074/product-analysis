@@ -1,6 +1,6 @@
 # **Leptop**
 
-**[Netlify Link](555555)**
+**[Netlify Link](https://laptopreact.netlify.app/)**
 
 # List Of Component
 
