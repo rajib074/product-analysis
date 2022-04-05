@@ -8,15 +8,17 @@ const CommentTwo = () => {
   const [Comments, setComments] = useComment();
 
   return (
-    <section className='Comment-area'>
+    <section className="Comment-area">
       <Container>
         <Row>
           <Col md={12}>
-            <h2 className='text-center mb-5'>
+            <h2 className="text-center mb-5">
               Total Customer Comment {Comments.length}
             </h2>
-            <div className='grid grid-col-3 gap-50'>
-              {Comments.map((Comment) => <CommentList key={Comment.id} Comment={Comment}></CommentList>)}
+            <div className="grid grid-col-3 gap-50">
+              {Comments.map((Comment) => (
+                <CommentList key={Comment.id} Comment={Comment}></CommentList>
+              ))}
             </div>
           </Col>
         </Row>

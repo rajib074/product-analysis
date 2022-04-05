@@ -1,4 +1,4 @@
-# **Edume - Leptop**
+# **Leptop**
 
 **[Netlify Link](555555)**
 
